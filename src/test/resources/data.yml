@@ -1,0 +1,5 @@
+headless : off
+targetUrl : https://www.tmon.co.kr
+id : 티몬 아이디 입력
+pw : 티몬 패스워드 입력
+searchKeyword : 아이패드
